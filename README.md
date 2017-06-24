@@ -19,11 +19,6 @@ Feel free to tag/describe your blog. Using existing tags makes searching easier,
 
 *alphabetical as much as possible*
 
-### Blog posts about blogging
-
-[david-hu.com/2012/09/14/why-interns-should-blog.html]
-[digitalfreepen.com/2017/06/19/why-want-to-blog.html]
-
 ### Accounting and Financial Management
 
 [Kingsong](//kingsong.tumblr.com/) [?, **>= 15 posts**]: experiences, waterloo
@@ -214,7 +209,14 @@ Feel free to tag/describe your blog. Using existing tags makes searching easier,
 
 [UW Data Scientist](//medium.com/@uw_data_scientist) [?, >= 3 posts]: waterloo, data science, women in cs
 
-### Misc
+## Other
+
+### Blog posts about blogging
+
+[david-hu.com/2012/09/14/why-interns-should-blog.html]
+[digitalfreepen.com/2017/06/19/why-want-to-blog.html]
+
+### Non-individual blogs
 
 [EngSoc MHA Team](//medium.com/@UWEngSocMHA) [N/A, **>= 35 posts**]: mental health, waterloo, advice, engineering
 
