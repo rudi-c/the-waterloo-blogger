@@ -15,6 +15,8 @@ For discoverability, we highlight the blogs with **at least 8 posts** (yes, this
 
 Feel free to tag/describe your blog. Using existing tags makes searching easier, though you can create new tags as you see fit. Try to keep the description under 100 characters.
 
+This text document is just version 1, created as an experiment. I am open to suggestions on how to format the information in this repo to make it more helpful for readers. [More ambitious plans and ideas can be found here](FUTURE.md).
+
 ## The list
 
 *alphabetical as much as possible*
