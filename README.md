@@ -17,10 +17,154 @@ Feel free to tag/describe your blog. Using existing tags makes searching easier,
 
 ## The list
 
-### Computer science
+*alphabetical as much as possible*
 
-[Rudi Chen](//digitalfreepen.com) ['17, **>= 40 posts**]: tech, waterloo, internships, travel
+### Blog posts about blogging
 
-### Electrical engineering
+http://david-hu.com/2012/09/14/why-interns-should-blog.html
 
-### Software engineering
+### Accounting and Financial Management
+
+[Kingsong](http://kingsong.tumblr.com/) [?, **>= 15 posts**]: experiences, waterloo
+
+### Arts
+
+[Jessica](http://jessatuwaterloo.tumblr.com/) [?, **>= 20 posts**]: waterloo, advice, experiences
+
+### Biochemistry
+
+[Flora Dong](//westofthesunblog.wordpress.com) ['17, **>= 5 posts**]: travel, fiction
+
+### Biotechnology/Economics
+
+[Mugwe Kiragu](//medium.com/@mugwe) ['16, **>= 5 posts**]: waterloo, experiences
+
+### Chemical Engineering
+
+[Van Nguyen](https://medium.com/@vv4nguye) ['19, **>= 7 posts**]: waterloo, engineering, experiences
+
+### Combinatorics and Optimization
+
+[Jackie Baek](http://jackiebaek.com/blog/) ['16, **>= 35 posts**]: experiences, travel
+
+### Computer Engineering
+
+[Hannah Zhang](http://coding-and-beyond.blogspot.com/) ['19, **>= 35 posts**]: experiences, internships, waterloo
+[William Yang](http://williamyang.me/resume/index.html) ['20, >= 1 post]: data science
+
+### Computer Science
+
+[Andrew Paradi](https://www.andrewparadi.com/blog) ['18, **>= 20 posts**]: startups, experiences, advice, books
+[Angel Gao](//angelwgao.wordpress.com/blog/) ['18, **>= 6 posts**]: travel, experiences, programming
+[Anthony Zhang](//anthony-zhang.me/blog/) ['18, **>= 17 posts**]: advice, programming, hardware
+[Bai Li](//luckytoilet.wordpress.com) ['17, **>= 115 posts**]: programming, algorithms, ai, advice, grad school, math
+[BCS Student](http://blogstudentbcs.blogspot.com/) ['19, **>= 18 posts**]: advice, experiences, waterloo
+[Daniel Pang](https://medium.com/@dpang) ['19, >= 2 posts]: experiences
+[Evy Kassirer](//medium.com/evyk) ['18, **>= 9 posts**]: programming, tech, internships, advice, experiences
+[Jason Sun](//medium.com/@sunapi386) ['15, >= 3 posts]: programming, experiences
+[Jennifer Shen](https://medium.com/@Jennifer_Shen) ['18, >= 3 posts]: experiences
+[John Innegan](//softwaregravy.wordpress.com) ['06, **>= 29 posts**]: programming, advice, jobs
+[Julia Nguyen](http://julianguyen.org/blog/) ['16, **>= 80 posts**]: experiences, design, waterloo, advice, internships, mental health, women in cs, programming
+[Kevin Pei](http://kevinpei.com/#!/blog) ['21, **>= 5 posts**]: experiences, programming, web
+[Madigan Kim](//medium.com/@mdgnkm) ['17, >= 1 post]: programming
+[Max Li](https://blog.maxli.org/) ['15, **>= 30 posts**]: experiences, programming, advice, education
+[Michael Shao](//chairmanshao.wordpress.com) ['14, **>= 9 posts**]: experiences, startups, reflections
+[Ming-Ho Yee](http://mhyee.com/blog.html) ['17 (masters), **>= 20 posts**]: programming, opinions, FYDP
+[Nick Fraser](//nfrasser.com/retro-ray-tracer) ['17, >= 2 posts**]: programming, graphics
+[Rudi Chen](//digitalfreepen.com) ['17, **>= 40 posts**]: programming, internships, travel, functional programming
+[Shine Wang](//shinexwang.com/blog/) ['18, **>= 9 posts**]: programming, advice, interviews, experiences
+[Shirley Du](//shirleyyldu.blogspot.jp/) ['17, >= 4 posts]: internships, experiences, interviews
+[Stanley Fung](//medium.com/@stanleyfung) ['17, >= 1 post]: internships
+[Taoling Yang](//thisistao.com/blog/) ['17, **>= 45 posts**]: photography, experiences, travel, food
+[Tiffany Yeung](https://medium.com/@tiffanynwyeung) ['20, **>= 5 posts**]: experiences, waterloo
+[Tristan Hume](http://thume.ca/archive.html) [?, **>= 25 posts**]: programming, internships, waterloo, open-source, reverse engineering
+
+### Computer Science/Business
+
+[Davis W](https://medium.com/@daviswang) [?, >= 2 posts]: internships, education, china
+
+### Computing and Financial Management
+
+[Rachel](http://blackandgold2014.blogspot.ca/) [?, **>= 13 posts**]: waterloo, experiences
+
+### Electrical Engineering
+
+[David Vuong & Nikhil Ramburrun](//lifeinece.ca/) ['18, **>= 15 posts**]: engineering, experiences, advice
+[David Z. Qin](https://medium.com/@qinzehao) ['16, >= 1 post]: experiences, startups
+[Farhan Thawar](//medium.com/@fnthawar) ['98, **>= 9 posts**]: advice, productivity, internships, jobs, xtreme labs
+[Ian Strasser] (https://medium.com/@IanStrasser) ['16, **>= 7 posts**]: technology, opinions
+
+### English
+
+[Catherine Vendryes](//medium.com/@cat_vendryes) ['16, >= 2 posts]: experiences
+[Tatiana](http://waterloowhynot.tumblr.com/) [?, ?]: waterloo
+[Theresa Shim](//medium.com/@theresashim) ['18 (masters), **>= 15 posts**]: waterloo, movies, arts, women
+
+### Environment/Business
+
+[Roshan Sahu](https://medium.com/@roshandsahu) ['17, **>= 45 posts**]: advice, opinions, social change, women in cs, experiences
+
+### Health Studies
+
+[Erica M](http://runningwithtextbooks.blogspot.ca/) [?, **>= 15 posts**]: waterloo, experiences
+
+### International Development
+
+[Carlee](https://adventuresthatlieahead.wordpress.com/) [?, **>= 35 posts**]: experiences, waterloo
+
+### Knowledge Integration
+
+[Karissa](https://waterloowideopen.wordpress.com) [?, **>= 7 posts**]: waterloo, advice, experiences
+
+### Management Engineering
+
+[Sarbajoy Majumdar](//medium.com/@sarbajoymajumdar) ['18, **>= 15 posts**]: waterloo, engineering, student involvment
+
+### Mathematics/Statistics
+
+[Anzo Teh Zhao Yang](//anzoteh96.wordpress.com) ['21, **>= 80 posts**]: math, olympiad, algorithms, experiences, experiences
+[Yuan Zhang](//medium.com/@yuanzh) ['19, **>= 5 posts**]: experiences, women in cs, mental health
+
+### Mechatronics
+
+[Andrew Andrade](//mrandrewandrade.com/blog) ['17?, **>= 11 posts**]: engineering, management, physics
+[Emily Cho](//medium.com/@emilylillianc) ['20, >= 1 post]: internships
+[Stephen Lake](//medium.com/@srlake) ['12, **>= 5 posts**]: waterloo, toronto, canada, startups, thalmic labs
+
+### Psychology
+
+[Kaustav Haldar](//medium.com/@kaustavha) ['18, **>= 5 posts**]: waterloo, neuroscience
+
+### Software Engineering
+
+[Bilal Akhtar](https://medium.com/@itsbilal) ['19, >= 1 post]: waterloo, advice
+[Bo Peng](//bopeng.io/) ['19, **>= 20 posts**]: waterloo, admissions, experiences
+[David Hu](//david-hu.com/about.html) ['14, **>= 8 posts**]: programmingl, internships, blogging, uwflow
+[Clarisse Schneider](//medium.com/@claryschneider) ['17, **>= 10 posts**]: experiences, internships, women in cs
+[Geoffry Yu](http://www.geoffreyyu.com/) ['18, **>= 9 posts**]: programming, experiences, misc
+[Jamie Wong](//jamie-wong.com/) ['14, **>= 45 posts**]: programming, web, algorithms, graphics, internships, experiences, programming languages
+[Justin Li](//j-li.net) ['17, >= 3 posts]: programming, linux, music
+[Kevin Pan](//kevinpan.me) ['18, **>= 7 posts**]: programming, experiences, graphics
+[Leon Jiang](//medium.com/@titangate) ['17, **>= 7 posts**]: experiences, china, politics
+[Michael Tu](//www.tuzhucheng.com/blog/) ['17, >= 4 posts]: programming, experiences
+[Mitchell Kember](//mitchellkember.com/blog/) ['19, **>= 14 posts**]: math, programming, experiences
+[Peter Sobot](https://petersobot.com/blog/) ['14, **>= 30 posts**]: programming, experiences, waterloo, internships
+[Robert Elder](http://www.robertelder.ca/my-uw-journey/) ['14, >= 2 posts]: waterloo, experiences
+[Sunjay Varma](//sunjay.ca/blog/) ['18, **>= 5 posts**]: programming
+[Taylor Petrick](https://taylorpetrick.com/blog) ['16, **>= 20 posts**]: programming, graphics, trains
+
+### Systems Design Engineering
+
+[Sean Aubin](//medium.com/@seanaubin) [? (masters), **>= 36 posts**]: programming, neuroscience, soylent, ai, experiences
+[Shan Pruthi](https://medium.com/@shanpruthi) [?, **>= 6 posts**]: experiences, mental health
+
+### Unknown
+
+[Danny Eng](//medium.com/@dannyeng) ['18, **>= 8 posts**]: waterloo, hackathons, experiences
+[Kevin Chan](https://medium.com/@kevchan) [?, >= 1 post]: programming
+[UW Data Scientist](https://medium.com/@uw_data_scientist) [?, >= 3 posts]: waterloo, data science, women in cs
+
+### Misc
+
+[EngSoc MHA Team](https://medium.com/@UWEngSocMHA) [N/A, **>= 35 posts**]: mental health, waterloo, advice, engineering
+[Professor Bill Anderson](https://profbillanderson.wordpress.com/) [N/A, **>= 180 posts**]: waterloo, admissions, education, engineering, advice
