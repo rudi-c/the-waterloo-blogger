@@ -211,11 +211,15 @@ Feel free to tag/describe your blog. Using existing tags makes searching easier,
 
 ## Other
 
-### Blog posts about blogging
+### Blog posts about blogging (by Waterloo students)
 
 http://david-hu.com/2012/09/14/why-interns-should-blog.html
 
 http://digitalfreepen.com/2017/06/19/why-want-to-blog.html
+
+### Blog posts about blogging (by other people)
+
+https://sites.google.com/site/steveyegge2/you-should-write-blogs
 
 ### Non-individual blogs
 
