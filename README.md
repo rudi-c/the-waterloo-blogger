@@ -21,7 +21,8 @@ Feel free to tag/describe your blog. Using existing tags makes searching easier,
 
 ### Blog posts about blogging
 
-//david-hu.com/2012/09/14/why-interns-should-blog.html
+[david-hu.com/2012/09/14/why-interns-should-blog.html]
+[digitalfreepen.com/2017/06/19/why-want-to-blog.html]
 
 ### Accounting and Financial Management
 
