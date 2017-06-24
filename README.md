@@ -83,9 +83,9 @@ Feel free to tag/describe your blog. Using existing tags makes searching easier,
 
 [Ming-Ho Yee](http://mhyee.com/blog.html) ['17 (masters), **>= 20 posts**]: programming, opinions, FYDP
 
-[Nick Fraser](http://nfrasser.com/retro-ray-tracer) ['17, >= 2 posts**]: programming, graphics
+[Nick Fraser](http://nfrasser.com/retro-ray-tracer) ['17, >= 2 posts]: programming, graphics
 
-[Rudi Chen](http://digitalfreepen.com) ['17, **>= 40 posts**]: programming, internships, travel, functional programming
+[Rudi Chen](http://digitalfreepen.com) ['17, **>= 40 posts**]: programming, internships, travel, graphics, functional programming
 
 [Shine Wang](http://shinexwang.com/blog/) ['18, **>= 9 posts**]: programming, advice, interviews, experiences
 
@@ -115,7 +115,7 @@ Feel free to tag/describe your blog. Using existing tags makes searching easier,
 
 [Farhan Thawar](https://medium.com/@fnthawar) ['98, **>= 9 posts**]: advice, productivity, internships, jobs, xtreme labs
 
-[Ian Strasser] (https://medium.com/@IanStrasser) ['16, >= 7 posts]: technology, opinions
+[Ian Strasser](https://medium.com/@IanStrasser) ['16, >= 7 posts]: technology, opinions
 
 ### English
 
@@ -213,8 +213,9 @@ Feel free to tag/describe your blog. Using existing tags makes searching easier,
 
 ### Blog posts about blogging
 
-[david-hu.com/2012/09/14/why-interns-should-blog.html]
-[digitalfreepen.com/2017/06/19/why-want-to-blog.html]
+http://david-hu.com/2012/09/14/why-interns-should-blog.html
+
+http://digitalfreepen.com/2017/06/19/why-want-to-blog.html
 
 ### Non-individual blogs
 
