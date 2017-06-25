@@ -223,6 +223,8 @@ This text document is just version 1, created as an experiment. I am open to sug
 
 [Robert Elder](http://www.robertelder.ca/my-uw-journey/) ['14, ≥ 2 posts]: waterloo, experiences
 
+[Ryan Chu](https://healthydoseofcynicism.wordpress.com/) ['18, **≥ 10 posts**]: experiences, opinions, advice
+
 [Shirley Miao](https://medium.com/@shirlmeow) ['18, ≥ 3 posts]: advice, books, internships, mental health
 
 [Sunjay Varma](http://sunjay.ca/blog/) ['18, ≥ 5 posts]: programming
