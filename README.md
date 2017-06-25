@@ -175,7 +175,7 @@ This text document is just version 1, created as an experiment. I am open to sug
 
 [Clarisse Schneider](https://medium.com/@claryschneider) ['17, **≥ 10 posts**]: experiences, internships, women in cs
 
-[Geoffry Yu](http://www.geoffreyyu.com/) ['18, **≥ 9 posts**]: programming, experiences, misc
+[Geoffrey Yu](http://www.geoffreyyu.com/) ['18, **≥ 9 posts**]: programming, experiences, misc
 
 [Jamie Wong](http://jamie-wong.com/) ['14, **≥ 45 posts**]: programming, web, algorithms, graphics, internships, experiences, programming languages
 
