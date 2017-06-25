@@ -99,7 +99,7 @@ This text document is just version 1, created as an experiment. I am open to sug
 
 [Tiffany Yeung](https://medium.com/@tiffanynwyeung) ['20, ≥ 5 posts]: experiences, waterloo
 
-[Tristan Hume](http://thume.ca/archive.html) [?, **≥ 25 posts**]: programming, internships, waterloo, open-source, reverse engineering
+[Tristan Hume](http://thume.ca/archive.html) ['19, **≥ 25 posts**]: programming, internships, waterloo, open-source, reverse engineering
 
 ### Computer Science/Business
 
