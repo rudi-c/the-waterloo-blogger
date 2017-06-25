@@ -9,7 +9,7 @@ The goals of this repo are to:
 
 ## Contributing
 
-Please contribute to this list by creating a pull request, creating a Github issue or even request an addition via [this anonymous form](https://docs.google.com/forms/d/1yZM2G6iFqwm2BKXesU5JWQLJ9xy2HkE0aWPh5fhoD2U)! If you make a pull request, please follow the format of existing links. You can also request to be removed from this list.
+Please contribute to this list by creating a pull request, creating a Github issue, or even request an addition via [this anonymous form](https://docs.google.com/forms/d/1yZM2G6iFqwm2BKXesU5JWQLJ9xy2HkE0aWPh5fhoD2U)! If you make a pull request, please follow the format of existing links. You can also request to be removed from this list.
 
 For discoverability, we highlight the blogs with **at least 8 posts** (yes, this number is totally arbitrary).
 
@@ -47,11 +47,15 @@ This text document is just version 1, created as an experiment. I am open to sug
 
 ### Computer Engineering
 
+[Clark Gaebel](http://clarkgaebel.com/) ['16, ≥ 4 posts]: programming, tech, finance
+
 [Hannah Zhang](http://coding-and-beyond.blogspot.com/) ['19, **≥ 35 posts**]: experiences, internships, waterloo
 
 [William Yang](http://williamyang.me/resume/index.html) ['20, ≥ 1 post]: data science
 
 ### Computer Science
+
+[Alice Zhou](http://www.aliceranzhou.com/blog) ['19, ≥ 6 posts]: experiences, waterloo, internships
 
 [Andrew Paradi](https://www.andrewparadi.com/blog) ['18, **≥ 20 posts**]: startups, experiences, advice, books
 
@@ -65,6 +69,8 @@ This text document is just version 1, created as an experiment. I am open to sug
 
 [Daniel Pang](https://medium.com/@dpang) ['19, ≥ 2 posts]: experiences
 
+[Dian Jin](https://dianjin.github.io/) ['19, ≥ 3 posts]: functional programming
+
 [Evy Kassirer](https://medium.com/@evyk) ['18, **≥ 9 posts**]: programming, tech, internships, advice, experiences
 
 [Jason Sun](https://medium.com/@sunapi386) ['15, ≥ 3 posts]: programming, experiences
@@ -73,9 +79,13 @@ This text document is just version 1, created as an experiment. I am open to sug
 
 [John Innegan](https://softwaregravy.wordpress.com) ['06, **≥ 29 posts**]: programming, advice, jobs
 
+[Jonathan Ma](https://www.youtube.com/channel/UCKKjxv1Y3O5j4hoRqr7ZTvw/videos) ['17, **≥ 25 videos**]: youtube, videos, filming, experiences, food, travel
+
 [Julia Nguyen](http://julianguyen.org/blog/) ['16, **≥ 80 posts**]: experiences, design, waterloo, advice, internships, mental health, women in cs, programming
 
 [Kevin Pei](http://kevinpei.com/#!/blog) ['21, ≥ 5 posts]: experiences, programming, web
+
+[Luke Zhao](http://lkzhao.com/) ['17, **≥ 8 posts**]: programming, design
 
 [Madigan Kim](https://medium.com/@mdgnkm) ['17, ≥ 1 post]: programming
 
@@ -87,7 +97,11 @@ This text document is just version 1, created as an experiment. I am open to sug
 
 [Nick Fraser](http://nfrasser.com/retro-ray-tracer) ['17, ≥ 2 posts]: programming, graphics
 
+[Robert Gawdzik](http://gawdzik.net/) ['18, **≥ 11 posts**]: porgramming, waterloo, graphics
+
 [Rudi Chen](http://digitalfreepen.com) ['17, **≥ 40 posts**]: programming, internships, travel, graphics, functional programming
+
+[Shane Creighton-Young](http://srcreigh.github.io/blog/) [?, ≥ 6 posts]: programming, waterloo, internships, advice
 
 [Shine Wang](http://shinexwang.com/blog/) ['18, **≥ 9 posts**]: programming, advice, interviews, experiences
 
@@ -99,9 +113,11 @@ This text document is just version 1, created as an experiment. I am open to sug
 
 [Tiffany Yeung](https://medium.com/@tiffanynwyeung) ['20, ≥ 5 posts]: experiences, waterloo
 
-[Tristan Hume](http://thume.ca/archive.html) [?, **≥ 25 posts**]: programming, internships, waterloo, open-source, reverse engineering
+[Tristan Hume](http://thume.ca/archive.html) ['19, **≥ 25 posts**]: programming, internships, waterloo, open-source, reverse engineering
 
 ### Computer Science/Business
+
+[Chen Zou](http://chenczou.com/blog) ['19, ≥ 4 posts]: startups, programming, design
 
 [Davis W](https://medium.com/@daviswang) [?, ≥ 2 posts]: internships, education, china
 
@@ -110,6 +126,8 @@ This text document is just version 1, created as an experiment. I am open to sug
 [Rachel](http://blackandgold2014.blogspot.ca/) [?, **≥ 13 posts**]: waterloo, experiences
 
 ### Electrical Engineering
+
+[Celina & Marieta](https://engiegirlsatuwaterloo.wordpress.com/) ['18, **≥ 25 posts**]: waterloo, experiences, advice, engineering, classes, internships
 
 [David Vuong & Nikhil Ramburrun](http://lifeinece.ca/) ['18, **≥ 15 posts**]: engineering, experiences, advice
 
@@ -161,19 +179,29 @@ This text document is just version 1, created as an experiment. I am open to sug
 
 [Stephen Lake](https://medium.com/@srlake) ['12, ≥ 5 posts]: waterloo, toronto, canada, startups, thalmic labs
 
+### Physics
+
+[John Alpaugh](http://waterloophysics.blogspot.com/) ['19, **≥ 25 posts**]: physics, math, astronomy, research
+
 ### Psychology
 
 [Kaustav Haldar](https://medium.com/@kaustavha) ['18, ≥ 5 posts]: waterloo, neuroscience
 
+### Pure Mathematics
+
+[Michael L. Baker](https://csclub.uwaterloo.ca/~mlbaker/) ['15 (masters), **≥ 150 posts**]: math, waterloo, experiences
+
 ### Software Engineering
+
+[Andy Zhang](https://andyzg.wordpress.com/) ['18, **≥ posts**]: waterloo, experiences, internships, interviewing, advice
 
 [Bilal Akhtar](https://medium.com/@itsbilal) ['19, ≥ 1 post]: waterloo, advice
 
 [Bo Peng](https://bopeng.io/) ['19, **≥ 20 posts**]: waterloo, admissions, experiences
 
-[David Hu](http://david-hu.com/about.html) ['14, **≥ 8 posts**]: programmingl, internships, blogging, uwflow
-
 [Clarisse Schneider](https://medium.com/@claryschneider) ['17, **≥ 10 posts**]: experiences, internships, women in cs
+
+[David Hu](http://david-hu.com/about.html) ['14, **≥ 8 posts**]: programmingl, internships, blogging, uwflow
 
 [Geoffrey Yu](http://www.geoffreyyu.com/) ['18, **≥ 9 posts**]: programming, experiences, misc
 
@@ -182,6 +210,8 @@ This text document is just version 1, created as an experiment. I am open to sug
 [Justin Li](https://j-li.net) ['17, ≥ 3 posts]: programming, linux, music
 
 [Kevin Pan](http://kevinpan.me) ['18, ≥ 7 posts]: programming, experiences, graphics
+
+[Kyle Lexmond](https://kyle.io/author/kyl191/) ['17, **≥ 190 posts**]: programming, linux, hardware
 
 [Leon Jiang](https://medium.com/@titangate) ['17, ≥ 7 posts]: experiences, china, politics
 
@@ -192,6 +222,8 @@ This text document is just version 1, created as an experiment. I am open to sug
 [Peter Sobot](https://petersobot.com/blog/) ['14, **≥ 30 posts**]: programming, experiences, waterloo, internships
 
 [Robert Elder](http://www.robertelder.ca/my-uw-journey/) ['14, ≥ 2 posts]: waterloo, experiences
+
+[Shirley Miao](https://medium.com/@shirlmeow) ['18, ≥ 3 posts]: advice, books, internships, mental health
 
 [Sunjay Varma](http://sunjay.ca/blog/) ['18, ≥ 5 posts]: programming
 
@@ -223,7 +255,7 @@ http://digitalfreepen.com/2017/06/19/why-want-to-blog.html
 
 https://sites.google.com/site/steveyegge2/you-should-write-blogs
 
-### Non-individual blogs
+### Non-individual or non-student blogs
 
 [EngSoc MHA Team](https://medium.com/@UWEngSocMHA) [N/A, **≥ 35 posts**]: mental health, waterloo, advice, engineering
 
