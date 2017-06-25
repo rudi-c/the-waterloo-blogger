@@ -223,7 +223,7 @@ http://digitalfreepen.com/2017/06/19/why-want-to-blog.html
 
 https://sites.google.com/site/steveyegge2/you-should-write-blogs
 
-### Non-individual blogs
+### Non-individual or non-student blogs
 
 [EngSoc MHA Team](https://medium.com/@UWEngSocMHA) [N/A, **≥ 35 posts**]: mental health, waterloo, advice, engineering
 
