@@ -47,8 +47,6 @@ This text document is just version 1, created as an experiment. I am open to sug
 
 ### Computer Engineering
 
-[Clark Gaebel](http://clarkgaebel.com/) ['16, ≥ 4 posts]: programming, tech, finance
-
 [Hannah Zhang](http://coding-and-beyond.blogspot.com/) ['19, **≥ 35 posts**]: experiences, internships, waterloo
 
 [William Yang](http://williamyang.me/resume/index.html) ['20, ≥ 1 post]: data science
