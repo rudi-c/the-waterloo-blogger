@@ -9,7 +9,7 @@ The goals of this repo are to:
 
 ## Contributing
 
-Please contribute to this list by creating a pull request, creating a Github issue or even request an addition via [this anonymous form](https://docs.google.com/forms/d/1yZM2G6iFqwm2BKXesU5JWQLJ9xy2HkE0aWPh5fhoD2U)! If you make a pull request, please follow the format of existing links. You can also request to be removed from this list.
+Please contribute to this list by creating a pull request, creating a Github issue, or even request an addition via [this anonymous form](https://docs.google.com/forms/d/1yZM2G6iFqwm2BKXesU5JWQLJ9xy2HkE0aWPh5fhoD2U)! If you make a pull request, please follow the format of existing links. You can also request to be removed from this list.
 
 For discoverability, we highlight the blogs with **at least 8 posts** (yes, this number is totally arbitrary).
 
