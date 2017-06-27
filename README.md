@@ -23,7 +23,7 @@ This text document is just version 1, created as an experiment. I am open to sug
 
 ### Accounting and Financial Management
 
-[Laiba](http://laibasays.com/) [?, **≥ 5 posts**]: makeup, beauty
+[Laiba](http://laibasays.com/) [?, ≥ 5 posts]: makeup, beauty
 
 [Kingsong](http://kingsong.tumblr.com/) [?, **≥ 15 posts**]: experiences, waterloo
 
