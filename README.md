@@ -237,7 +237,7 @@ This text document is just version 1, created as an experiment. I am open to sug
 
 ### Software Engineering
 
-[Andy Zhang](https://andyzg.wordpress.com/) ['18, **≥ 8 posts**]: waterloo, experiences, internships, interviewing, advice
+[Andy Zhang](https://blog.andyzhang.net/) ['18, **≥ 8 posts**]: waterloo, experiences, internships, interviewing, advice
 
 [Bilal Akhtar](https://medium.com/@itsbilal) ['19, ≥ 1 post]: waterloo, advice
 
