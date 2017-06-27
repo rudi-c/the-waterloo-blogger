@@ -239,6 +239,8 @@ This text document is just version 1, created as an experiment. I am open to sug
 
 [Andy Zhang](https://andyzg.wordpress.com/) ['18, **≥ 8 posts**]: waterloo, experiences, internships, interviewing, advice
 
+[Anojh Gnanachandran](http://blog.pluszero.ca) ['17, **≥ 9 posts**]: waterloo, experiences, internships, advice
+
 [Bilal Akhtar](https://medium.com/@itsbilal) ['19, ≥ 1 post]: waterloo, advice
 
 [Bo Peng](https://bopeng.io/) ['19, **≥ 20 posts**]: waterloo, admissions, experiences
