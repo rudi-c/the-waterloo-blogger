@@ -63,6 +63,8 @@ This text document is just version 1, created as an experiment. I am open to sug
 
 [Lawrence Choi](https://l2choi.github.io/) ['17, ≥ 7 posts]: waterloo, opinions, mental health
 
+[Lenny Cheng](https://lennycheng.com/blog) ['19, **≥ 30 posts**]: experiences, waterloo, software
+
 [Stephen Holiday](https://stephenholiday.com/articles/) ['14, **≥ 15 posts**]: programming, advice, waterloo, data science
 
 [William Yang](http://williamyang.me/resume/index.html) ['20, ≥ 1 post]: data science
