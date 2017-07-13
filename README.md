@@ -67,6 +67,8 @@ This text document is just version 1, created as an experiment. I am open to sug
 
 [William Yang](http://williamyang.me/resume/index.html) ['20, ≥ 1 post]: data science
 
+[Lenny Cheng](https://lennycheng.com/blog) ['19, **≥ 30 posts**]: experiences, waterloo, software
+
 ### Computer Science
 
 [Adam Kenneweg](http://www.akenneweg.com/blog/) ['19, ≥ 5 posts]: programming, interviews, advice, waterloo
