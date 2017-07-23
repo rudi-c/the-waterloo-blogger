@@ -271,7 +271,7 @@ This text document is just version 1, created as an experiment. I am open to sug
 
 ### Software Engineering
 
-[Andy Zhang](https://blog.andyzhang.net/) ['18, **≥ 8 posts**]: waterloo, experiences, internships, interviewing, advice
+[Andy Zhang](http://blog.andyzhang.net/) ['18, **≥ 8 posts**]: waterloo, experiences, internships, interviewing, advice
 
 [Anojh Gnanachandran](http://blog.pluszero.ca) ['17, **≥ 9 posts**]: waterloo, experiences, internships, advice
 
