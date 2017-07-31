@@ -285,8 +285,6 @@ This text document is just version 1, created as an experiment. I am open to sug
 
 [Geoffrey Yu](http://www.geoffreyyu.com/) ['18, **≥ 9 posts**]: programming, experiences, misc
 
-[Sameer Chitley](https://rageandqq.github.io/blog/) ['18, ≥ 2 posts]: programming, waterloo, misc
-
 [Jamie Wong](http://jamie-wong.com/) ['14, **≥ 45 posts**]: programming, web, algorithms, graphics, internships, experiences, programming languages
 
 [Justin Li](https://j-li.net) ['17, ≥ 3 posts]: programming, linux, music
@@ -312,6 +310,8 @@ This text document is just version 1, created as an experiment. I am open to sug
 [Robert Elder](http://www.robertelder.ca/my-uw-journey/) ['14, ≥ 2 posts]: waterloo, experiences
 
 [Ryan Chu](https://healthydoseofcynicism.wordpress.com/) ['18, **≥ 10 posts**]: experiences, opinions, advice
+
+[Sameer Chitley](https://rageandqq.github.io/blog/) ['18, ≥ 2 posts]: programming, waterloo, misc
 
 [Shirley Miao](https://medium.com/@shirlmeow) ['18, ≥ 3 posts]: advice, books, internships, mental health
 
