@@ -285,6 +285,8 @@ This text document is just version 1, created as an experiment. I am open to sug
 
 [Geoffrey Yu](http://www.geoffreyyu.com/) ['18, **≥ 9 posts**]: programming, experiences, misc
 
+[Sameer Chitley](https://rageandqq.github.io/blog/) ['18, ≥ 2 posts]: programming, waterloo, misc
+
 [Jamie Wong](http://jamie-wong.com/) ['14, **≥ 45 posts**]: programming, web, algorithms, graphics, internships, experiences, programming languages
 
 [Justin Li](https://j-li.net) ['17, ≥ 3 posts]: programming, linux, music
