@@ -311,6 +311,8 @@ This text document is just version 1, created as an experiment. I am open to sug
 
 [Ryan Chu](https://healthydoseofcynicism.wordpress.com/) ['18, **≥ 10 posts**]: experiences, opinions, advice
 
+[Sameer Chitley](https://rageandqq.github.io/blog/) ['18, ≥ 2 posts]: programming, waterloo, misc
+
 [Shirley Miao](https://medium.com/@shirlmeow) ['18, ≥ 3 posts]: advice, books, internships, mental health
 
 [Stephen Li](https://www.stephenli.ca/blog/) ['16, **≥ 10 posts**]: programming, graphics, experiences
