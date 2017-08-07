@@ -12,6 +12,8 @@ Challenges:
 
 On the other hand, half the entries are from Medium so it's fine if we don't have data for all blogs.
 
+Notes on scraping: apparently using a browser like Selenium tends to give better results? See https://lord.io/blog/2015/elixir-scraping/
+
 ## Automatic integration
 
 We could setup automatic integration on PRs to make sure everyone follows the same formatting when adding blog posts. This could probably be implemented as a single regex (and maybe a few lines of code to deal with section headers).
