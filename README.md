@@ -179,6 +179,10 @@ This text document is just version 1, created as an experiment. I am open to sug
 
 [Jiyuan Zheng](https://kivenalexander.wordpress.com/) ['13, ≥ 2 posts]: programming
 
+### Computer Science/Statistics
+
+[Yutong Wu](https://giapple.wordpress.com/) ['19, **≥ 24 posts**]: travel, french, movies
+
 ### Computing and Financial Management
 
 [Rachel](http://blackandgold2014.blogspot.ca/) [?, **≥ 13 posts**]: waterloo, experiences
@@ -322,6 +326,8 @@ This text document is just version 1, created as an experiment. I am open to sug
 [Taylor Petrick](https://taylorpetrick.com/blog) ['16, **≥ 20 posts**]: programming, graphics, trains
 
 ### Systems Design Engineering
+
+[Joey Loi](https://medium.com/@joeyloi) ['17, ≥ 2 posts]: waterloo, experiences
 
 [Sean Aubin](https://medium.com/@seanaubin) [? (masters), **≥ 36 posts**]: programming, neuroscience, soylent, ai, experiences
 
