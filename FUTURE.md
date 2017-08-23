@@ -26,4 +26,4 @@ I didn't build it initially as a website to avoid dependencies on a single (or s
 
 The web interface could have a way of searching by blog and by post (which is probably more useful). We could also highlight 2-3 posts per blog to make the list more useful. This could be done via upvotes or some sort of recommendation system.
 
-Prior work to look into that could be useful for semantic parsing of pages: Mercury by Postlight, Mobile Safari's readability feature
+Prior work to look into that could be useful for semantic parsing of pages: Mercury by Postlight, Mobile Safari's readability feature, scrapy, ParseHub
