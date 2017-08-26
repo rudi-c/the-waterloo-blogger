@@ -7,6 +7,8 @@ The goals of this repo are to:
 - **Increase readership & discoverability of existing blogs**...and in the process, incentivize more writing.
 - **Encourage more students to blog**...by providing a lot of examples and reducing the argument that "no one is going to read my blog". This should be a positive for student culture.
 
+A website that shows the recently updated blogs can be found at [http://thewaterlooblogger.tk/](http://thewaterlooblogger.tk/)
+
 ## Contributing
 
 Please contribute to this list by creating a pull request, creating a Github issue, or even request an addition via [this anonymous form](https://docs.google.com/forms/d/1yZM2G6iFqwm2BKXesU5JWQLJ9xy2HkE0aWPh5fhoD2U)! If you make a pull request, please follow the format of existing links. You can also request to be removed from this list
