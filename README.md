@@ -59,11 +59,11 @@ This text document is just version 1, created as an experiment. I am open to sug
 
 ### Combinatorics and Optimization
 
-[Jackie Baek](http://jackiebaek.com/blog/) ['16, **≥ 35 posts**]: experiences, travel
-
 [Shane Wilton](https://medium.com/@shanewilton) ['15, ≥ 2 posts]: programming, security
 
 ### Computer Engineering
+
+[Daniel Williams](https://dwill.ca/) ['22, **≥ 9 posts**]: design, programming, startups, opinions
 
 [Hannah Zhang](http://coding-and-beyond.blogspot.com/) ['19, **≥ 35 posts**]: experiences, internships, waterloo
 
