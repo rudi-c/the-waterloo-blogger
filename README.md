@@ -253,6 +253,10 @@ This text document is just version 1, created as an experiment. I am open to sug
 
 [Emma](https://avoidinggeese.wordpress.com/) [?, ≥ 16 posts]: waterloo, experiences, advice
 
+[Zachary Jacobi](http://socratic-form-microscopy.com/) ['15, ≥ **50 posts**]: politics, economics, experiences
+
+[Ryan Neufeld](https://metavee.github.io/blog/) ['15, ≥ 5 posts]: math, experiences
+
 ### Physics
 
 [John Alpaugh](http://waterloophysics.blogspot.com/) ['19, **≥ 25 posts**]: physics, math, astronomy, research
@@ -331,7 +335,9 @@ This text document is just version 1, created as an experiment. I am open to sug
 
 [Joey Loi](https://medium.com/@joeyloi) ['17, ≥ 2 posts]: waterloo, experiences
 
-[Sean Aubin](https://medium.com/@seanaubin) [? (masters), **≥ 36 posts**]: programming, neuroscience, soylent, ai, experiences
+[Malcolm Ocean](https://malcolmocean.com/) ['15, **≥ 36 posts**]: culture, change, and mental models
+
+[Sean Aubin](https://seanny123.github.io/) ['18 (masters), **≥ 36 posts**]: programming, neuroscience, soylent, ai, experiences
 
 [Shan Pruthi](https://medium.com/@shanpruthi) [?, ≥ 6 posts]: experiences, mental health
 
