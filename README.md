@@ -253,9 +253,9 @@ This text document is just version 1, created as an experiment. I am open to sug
 
 [Emma](https://avoidinggeese.wordpress.com/) [?, ≥ 16 posts]: waterloo, experiences, advice
 
-[Zachary Jacobi](http://socratic-form-microscopy.com/) ['15, ≥ **50 posts**]: politics, economics, experiences
-
 [Ryan Neufeld](https://metavee.github.io/blog/) ['15, ≥ 5 posts]: math, experiences
+
+[Zachary Jacobi](http://socratic-form-microscopy.com/) ['15, ≥ **50 posts**]: politics, economics, experiences
 
 ### Physics
 
