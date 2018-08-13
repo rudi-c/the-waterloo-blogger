@@ -77,6 +77,8 @@ This text document is just version 1, created as an experiment. I am open to sug
 
 [William Yang](http://williamyang.me/resume/index.html) ['20, ≥ 1 post]: data science
 
+[Allison Chow](https://medium.com/@allychow) ['20, **≥ 21 posts**]: women in tech, expereinces, personal, design, software
+
 ### Computer Science
 
 [Adam Kenneweg](http://www.akenneweg.com/blog/) ['19, ≥ 5 posts]: programming, interviews, advice, waterloo
@@ -331,6 +333,8 @@ This text document is just version 1, created as an experiment. I am open to sug
 
 [Taylor Petrick](https://taylorpetrick.com/blog) ['16, **≥ 20 posts**]: programming, graphics, trains
 
+[Derek Xu](https://medium.com/@derekxu) ['22, **≥ 8 posts**]: experiences, waterloo, music
+
 ### Systems Design Engineering
 
 [Joey Loi](https://medium.com/@joeyloi) ['17, ≥ 2 posts]: waterloo, experiences
@@ -339,15 +343,17 @@ This text document is just version 1, created as an experiment. I am open to sug
 
 [Sean Aubin](https://seanny123.github.io/) ['18 (masters), **≥ 36 posts**]: programming, neuroscience, soylent, ai, experiences
 
-[Shan Pruthi](https://medium.com/@shanpruthi) [?, ≥ 6 posts]: experiences, mental health
+[Shan Pruthi](https://medium.com/@shanpruthi) ['20, ≥ 6 posts]: experiences, mental health
+
+[Kevin Chan](https://medium.com/@kevchan) ['21, ≥ 1 post]: programming
+
+[Queenie Wu](https://medium.com/@queeniwu) ['22, ≥ 3 posts] design, experiences
 
 ### Unknown
 
 [Anonymous](http://uwaterloojourney.blogspot.ca/) [?, ≥ 4 posts]: waterloo, classes
 
 [Danny Eng](https://medium.com/@dannyeng) ['18, **≥ 8 posts**]: waterloo, hackathons, experiences
-
-[Kevin Chan](https://medium.com/@kevchan) [?, ≥ 1 post]: programming
 
 [UW Data Scientist](https://medium.com/@uw_data_scientist) [?, ≥ 3 posts]: waterloo, data science, women in cs
 
