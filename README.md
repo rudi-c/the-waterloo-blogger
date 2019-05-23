@@ -91,7 +91,7 @@ This text document is just version 1, created as an experiment. I am open to sug
 
 [Alice Zhou](http://www.aliceranzhou.com/blog) ['19, ≥ 6 posts]: experiences, waterloo, internships
 
-[Andrew Paradi](https://www.andrewparadi.com/blog?utm_campaign=blog&utm_medium=referral&utm_source=github-the-waterloo-blogger) ['18, **≥ 21 posts**]: startups, experiences, advice, books
+[Andrew Paradi Alexander](https://andrew.fm/blog?utm_campaign=blog&utm_medium=referral&utm_source=github-the-waterloo-blogger) ['18, **≥ 28 posts**]: startups, code, finance, books
 
 [Angel Gao](https://angelwgao.wordpress.com/blog/) ['18, ≥ 6 posts]: travel, experiences, programming
 
