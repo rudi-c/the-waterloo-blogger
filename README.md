@@ -23,25 +23,15 @@ This text document is just version 1, created as an experiment. I am open to sug
 
 *alphabetical as much as possible*
 
-### Accounting and Financial Management
-
-[Laiba](http://laibasays.com/) [?, ≥ 5 posts]: makeup, beauty
-
-[Kingsong](http://kingsong.tumblr.com/) [?, **≥ 15 posts**]: experiences, waterloo
-
 ### Applied Mathematics/Computer Science
 
 [Eric Lippert](https://ericlippert.com/) ['96, **≥ 450 posts**]: math, functional programming, compilers, security
 
 ### Arts
 
-[Jessica](http://jessatuwaterloo.tumblr.com/) [?, **≥ 20 posts**]: waterloo, advice, experiences
-
 [Lindsay David](http://ivebeenbit.ca/) ['14, **≥ 140 posts**]: travel, canada
 
 ### Biochemistry
-
-[Flora Dong](https://westofthesunblog.wordpress.com) ['17, ≥ 5 posts]: travel, fiction
 
 [Moaraj Hasan](http://moaraj.com/blog/) ['15, **≥ 10 posts**]: travel, photography, experiences
 
@@ -63,8 +53,6 @@ This text document is just version 1, created as an experiment. I am open to sug
 
 ### Computer Engineering
 
-[Daniel Williams](https://dwill.ca/) ['22, **≥ 9 posts**]: design, programming, startups, opinions
-
 [Hannah Zhang](http://coding-and-beyond.blogspot.com/) ['19, **≥ 35 posts**]: experiences, internships, waterloo
 
 [Lawrence Choi](https://l2choi.github.io/) ['17, ≥ 7 posts]: waterloo, opinions, mental health
@@ -81,15 +69,9 @@ This text document is just version 1, created as an experiment. I am open to sug
 
 ### Computer Science
 
-[Adam Kenneweg](http://www.akenneweg.com/blog/) ['19, ≥ 5 posts]: programming, interviews, advice, waterloo
-
-[Alex Gomez](https://eagomez54.wordpress.com/blog/) ['17, **≥ 11 posts**]: programming, advice, opinions
-
 [Anonymous](http://blog.frasertheking.com/) [?, **≥ 10 posts**]: graphics, fine arts
 
 [Asmar Khalid](http://asmarkhalid.blogspot.ca/) [?, **≥ 10 posts**]: waterloo, experiences, programming
-
-[Alice Zhou](http://www.aliceranzhou.com/blog) ['19, ≥ 6 posts]: experiences, waterloo, internships
 
 [Andrew Paradi Alexander](https://andrew.fm/blog?utm_campaign=blog&utm_medium=referral&utm_source=github-the-waterloo-blogger) ['18, **≥ 28 posts**]: startups, code, finance, books
 
@@ -102,8 +84,6 @@ This text document is just version 1, created as an experiment. I am open to sug
 [BCS Student](http://blogstudentbcs.blogspot.com/) ['19, **≥ 18 posts**]: advice, experiences, waterloo
 
 [Christopher Wong](http://www.chris-wong.net/) ['11, **≥ 10 posts**]: programming, waterloo, experiences
-
-[Dadi Zhang](http://dzed.me/blog.html) ['20, ≥ 3 posts]: experiences, waterloo
 
 [Daniel Bigham](http://www.danielbigham.ca/cgi-bin/blog.pl) ['03, **≥ 300 posts**]: programming, tech, opinions, experiences
 
@@ -139,13 +119,9 @@ This text document is just version 1, created as an experiment. I am open to sug
 
 [Michael Shao](https://chairmanshao.wordpress.com) ['14, **≥ 9 posts**]: experiences, startups, reflections
 
-[Muhammad Tauqir Ahmad](https://sddelbecbc.com/articles/) ['15, **≥ 10 posts**]: programming
-
 [Nick Fraser](http://nfrasser.com/retro-ray-tracer) ['17, ≥ 2 posts]: programming, graphics
 
 [Richard Ye](http://yerich.net/) ['16, ≥ 6 posts]: programming, javascript, web
-
-[Robert Gawdzik](http://gawdzik.net/) ['18, **≥ 11 posts**]: porgramming, waterloo, graphics
 
 [Rudi Chen](http://digitalfreepen.com) ['17, **≥ 40 posts**]: programming, internships, travel, graphics, functional programming
 
@@ -175,17 +151,11 @@ This text document is just version 1, created as an experiment. I am open to sug
 
 ### Computer Science/Business
 
-[Chen Zou](http://chenczou.com/blog) ['19, ≥ 4 posts]: startups, programming, design
-
 [Davis W](https://medium.com/@daviswang) [?, ≥ 2 posts]: internships, education, china
 
 [Jerry Yu](https://jerryyu.ca/blog/archives) ['18, **≥ 27 posts**]: experiences, advice, programming, tech
 
 [Jiyuan Zheng](https://kivenalexander.wordpress.com/) ['13, ≥ 2 posts]: programming
-
-### Computer Science/Statistics
-
-[Yutong Wu](https://giapple.wordpress.com/) ['19, **≥ 24 posts**]: travel, french, movies
 
 ### Computing and Financial Management
 
@@ -196,8 +166,6 @@ This text document is just version 1, created as an experiment. I am open to sug
 [Anonymous](https://healthydoseofcynicism.wordpress.com/) ['?, **≥ 9 posts**]: experiences, opinions, television, advice
 
 [Celina & Marieta](https://engiegirlsatuwaterloo.wordpress.com/) ['18, **≥ 25 posts**]: waterloo, experiences, advice, engineering, classes, internships
-
-[David Vuong & Nikhil Ramburrun](http://lifeinece.ca/) ['18, **≥ 15 posts**]: engineering, experiences, advice
 
 [David Z. Qin](https://medium.com/@qinzehao) ['16, ≥ 1 post]: experiences, startups
 
@@ -244,10 +212,6 @@ This text document is just version 1, created as an experiment. I am open to sug
 [Yuan Zhang](https://medium.com/@yuanzh) ['19, ≥ 5 posts]: experiences, women in cs, mental health
 
 ### Mechatronics
-
-[Andrew Andrade](http://mrandrewandrade.com/blog) ['17?, **≥ 11 posts**]: engineering, management, physics
-
-[Emily Cho](https://medium.com/@emilylillianc) ['20, ≥ 1 post]: internships
 
 [Stephen Lake](https://medium.com/@srlake) ['12, ≥ 5 posts]: waterloo, toronto, canada, startups, thalmic labs
 
@@ -327,8 +291,6 @@ This text document is just version 1, created as an experiment. I am open to sug
 
 [Shirley Miao](https://medium.com/@shirlmeow) ['18, ≥ 3 posts]: advice, books, internships, mental health
 
-[Stephen Li](https://www.stephenli.ca/blog/) ['16, **≥ 10 posts**]: programming, graphics, experiences
-
 [Sunjay Varma](http://sunjay.ca/blog/) ['18, ≥ 5 posts]: programming
 
 [Taylor Petrick](https://taylorpetrick.com/blog) ['16, **≥ 20 posts**]: programming, graphics, trains
@@ -340,8 +302,6 @@ This text document is just version 1, created as an experiment. I am open to sug
 [Joey Loi](https://medium.com/@joeyloi) ['17, ≥ 2 posts]: waterloo, experiences
 
 [Malcolm Ocean](https://malcolmocean.com/) ['15, **≥ 36 posts**]: culture, change, and mental models
-
-[Sean Aubin](https://seanny123.github.io/) ['18 (masters), **≥ 36 posts**]: programming, neuroscience, soylent, ai, experiences
 
 [Shan Pruthi](https://medium.com/@shanpruthi) ['20, ≥ 6 posts]: experiences, mental health
 
