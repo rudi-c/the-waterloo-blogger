@@ -303,6 +303,8 @@ This text document is just version 1, created as an experiment. I am open to sug
 
 [Malcolm Ocean](https://malcolmocean.com/) ['15, **≥ 36 posts**]: culture, change, and mental models
 
+[Sean Aubin](https://seanaubin.com/) ['18 (masters), **≥ 5 posts**]: programming, neuroscience, soylent, ai, experiences
+
 [Shan Pruthi](https://medium.com/@shanpruthi) ['20, ≥ 6 posts]: experiences, mental health
 
 [Kevin Chan](https://medium.com/@kevchan) ['21, ≥ 1 post]: programming
